@@ -1,0 +1,33 @@
+insert p1 1 1
+insert p2 1 1
+insert p3 1 1
+insert p4 1 2
+insert p5 0 0
+insert p6 1 2
+insert p7 0 0
+insert p8 1 0
+insert p9 0 1
+insert p10 0 0
+insert p12 1 2
+insert p13 1 0
+insert p14 0 1
+insert p15 0 1
+insert p16 1 0
+insert p1 1000 1000
+insert p2 1000 1000
+insert p3 1000 1000
+insert p4 1000 1001
+insert p5 999 999
+insert p6 1000 1001
+insert p7 999 999
+insert p8 1000 999
+insert p9 999 1000
+insert p10 999 999
+insert p12 1000 1001
+insert p13 1000 999
+insert p14 999 1000
+insert p15 999 1000
+insert p16 1000 999
+
+regionsearch 990 990 11 11
+dump
